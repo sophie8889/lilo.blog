@@ -16,7 +16,7 @@ image = "img_3575-kopie-2.jpeg"
 
 Eva Eigner: Ich habe Malcolm auf einer Reise kennengelernt, im Zug von China zurück nach Europa. Es war exakt am 7 September 1988. Das konnten wir auf dem Zugticket nachschauen.
 
- **Wie lange seid ihr schon zusammen?**
+**Wie lange seid ihr schon zusammen?**
 
 Seit 1988, also 36 Jahre.
 
