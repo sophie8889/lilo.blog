@@ -24,11 +24,7 @@ Seit 1988, also 36 Jahre.
 
 
 
-{{<box>}}
-
-Eva Eigner wurde 1960 in München, Bayern geboren. Dort wohnte und arbeitete sie als Fachlehrerin in Textil und Werken bis 1995.1997 zog sie in die Schweiz, da ihr Mann Malcolm in der Schweiz eine Arbeit angenommen hatte. Mit ihm ist sie schon sehr lange glücklich verheiratet.
-
-{{</box>}}
+{{<box>}} Eva Eigner wurde 1960 in München, Bayern geboren. Dort wohnte und arbeitete sie als Fachlehrerin in Textil und Werken bis 1995.1997 zog sie in die Schweiz, da ihr Mann Malcolm in der Schweiz eine Arbeit angenommen hatte. Mit ihm ist sie schon sehr lange glücklich verheiratet. {{</box>}}
 
 
 
