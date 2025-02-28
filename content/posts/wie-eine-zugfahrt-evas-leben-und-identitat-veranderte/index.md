@@ -1,5 +1,5 @@
 +++
-title = "Wie eine Zugfahrt Eva's Leben und Identität veränderte"
+title = "Wie eine Zugfahrt ein Leben und eine Identität veränderte"
 date = "2025-02-28"
 draft = false
 pinned = false
@@ -49,8 +49,4 @@ Ich glaube, dass wir uns gegenseitig immer wieder aus der Schublade herausnehmen
 
 **Also trifft bei euch Beides zu?**
 
- Ja schon. Ich habe eine gewisse Vorstellung von ihm. Ich finde, wenn man seinen 
-
-Partner in der Schublade lässt, passiert weiter nichts mehr oder man denkt, es hat ja eh keinen Sinn. Aber dann ist man gar nicht so lange zusammen. Malcolm und ich sind schon 36 Jahre zusammen und ich möchte gerne auch die nächsten 36 Jahre mit ihm verbringen und noch viele neue Dinge über ihn herausfinden. Ich glaube ein Mensch ändert sich, wenn er älter wird, wenn es immer wieder neue Dinge in seinem Leben gibt und man dadurch neue Dinge an dieser Person entdeckt und sieht, dass die Person auch ganz anders sein kann, als man sich das vorgestellt hat.
-
-![]()
+ Ja schon. Ich habe eine gewisse Vorstellung von ihm. Ich finde, wenn man seinen Partner in der Schublade lässt, passiert weiter nichts mehr oder man denkt, es hat ja eh keinen Sinn. Aber dann ist man gar nicht so lange zusammen. Malcolm und ich sind schon 36 Jahre zusammen und ich möchte gerne auch die nächsten 36 Jahre mit ihm verbringen und noch viele neue Dinge über ihn herausfinden. Ich glaube ein Mensch ändert sich, wenn er älter wird, wenn es immer wieder neue Dinge in seinem Leben gibt und man dadurch neue Dinge an dieser Person entdeckt und sieht, dass die Person auch ganz anders sein kann, als man sich das vorgestellt hat.
