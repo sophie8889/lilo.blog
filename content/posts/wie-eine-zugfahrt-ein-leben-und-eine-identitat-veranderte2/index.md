@@ -14,21 +14,17 @@ image = "img_3575-kopie-2.jpeg"
 
 **Sophie Rykart: Wann und wo hast du Malcolm kennengelernt?**
 
-Ich habe Malcolm auf einer Reise kennengelernt, im Zug von China zurück nach Europa. Es war exakt am 7 September 1988. Das konnten wir auf dem Zugticket nachschauen.
+Eva Eigner: Ich habe Malcolm auf einer Reise kennengelernt, im Zug von China zurück nach Europa. Es war exakt am 7 September 1988. Das konnten wir auf dem Zugticket nachschauen.
 
  **Wie lange seid ihr schon zusammen?**
 
 Seit 1988, also 36 Jahre.
-
-
 
 {{<box>}}
 
 Eva Eigner wurde 1960 in München, Bayern geboren. Dort wohnte und arbeitete sie als Fachlehrerin in Textil und Werken bis 1995.1997 zog sie in die Schweiz, da ihr Mann Malcolm in der Schweiz eine Arbeit angenommen hatte. Mit ihm ist sie schon sehr lange glücklich verheiratet.
 
 {{</box>}}
-
-
 
 **Wie würdest du dich beschreiben, bevor du mit Malcolm zusammenkamst? Was waren deine typischen Eigenschaften?**
 
