@@ -20,7 +20,7 @@ Ich habe Malcolm auf einer Reise kennengelernt, im Zug von China zurück nach Eu
 
 
 
-**Und wie lange seid ihr schon zusammen?**
+ **Wie lange seid ihr schon zusammen?**
 
 Seit 1988, also 36 Jahre.
 
