@@ -3,6 +3,7 @@ title = "Wie eine Zugfahrt ein Leben und eine Identität veränderte"
 date = "2025-02-28"
 draft = false
 pinned = false
+tags = ["#interview#identität#langeBeziehung"]
 image = "img_3575-kopie-2.jpeg"
 +++
 {{<lead>}}
