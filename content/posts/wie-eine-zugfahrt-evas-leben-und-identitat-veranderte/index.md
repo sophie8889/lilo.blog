@@ -12,7 +12,7 @@ image = "img_3575-kopie-2.jpeg"
 
  {{<lead>}}
 
-**Wann und wo hast du Malcolm kennengelernt?**
+**Sophie Rykart: Wann und wo hast du Malcolm kennengelernt?**
 
 Ich habe Malcolm auf einer Reise kennengelernt, im Zug von China zurück nach Europa. Es war exakt am 7 September 1988. Das konnten wir auf dem Zugticket nachschauen.
 
